@@ -10,20 +10,17 @@ figure
     width: 200px;
     float: right;
 }
+
 figcaption
 {
     font-size: 1em;
     background-color: #c2229a;
     text-align: center;
 }
-figure1{
+
+figure1
+{
     border: 5px  #fae954 solid;
     width: 200px;
-    float: right;
 }
-figcaption1
-{
-    font-size: 4em;
-    background-color: #fae954;
-    text-align: center;
-}
+
