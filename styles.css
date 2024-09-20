@@ -1,7 +1,12 @@
 font{
     font-size: 1em;
-    color: #000000;
-    font-family: Arial, sans-serif;
+    color: hsl(0, 0%, 0%);
+    font-family: cursive, sans-serif;
+}
+font3{
+    font-size: 1em;
+    color: hsl(0, 100%, 50%);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 figure
