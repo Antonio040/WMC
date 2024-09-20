@@ -8,6 +8,11 @@ font3{
     color: hsl(0, 100%, 50%);
     font-family: Arial, Helvetica, sans-serif;
 }
+font4{
+    font-size: 1em;
+    color: hsl(0, 100%, 50%);
+    font-style: italic;
+}
 
 figure
 {
