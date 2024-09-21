@@ -1,2 +1,2 @@
 # WMC
-A web site designed for Rudi. 
+A failed web site designed for Rudi. 
